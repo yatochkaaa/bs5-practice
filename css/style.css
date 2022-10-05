@@ -105,13 +105,20 @@ header, footer {
   margin: 15px auto 30px;
 }
 
+/* Для кого курс */
+
+.forwhom h5 {
+  padding: 50px;
+  border: 3px solid var(--color1);
+}
+
 /* Цвет */
 .color1 {
   color: var(--color1);
 }
 
 .color2 {
-  color: var(--color1);
+  color: var(--color2);
 }
 
 .bg1 {
