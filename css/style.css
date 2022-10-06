@@ -142,6 +142,10 @@ header, footer {
 
 /* Отзывы о курсе */
 
+.img-border {
+  border: 3px solid var(--color1);
+}
+
 /* Цвет */
 .color1 {
   color: var(--color1);
