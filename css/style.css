@@ -140,6 +140,8 @@ header, footer {
   max-width: 260px;
 }
 
+/* Отзывы о курсе */
+
 /* Цвет */
 .color1 {
   color: var(--color1);
